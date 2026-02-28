@@ -1,1 +1,1 @@
-# comp367-aws-lab2-Samra
+# comp367-aws-lab2
