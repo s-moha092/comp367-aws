@@ -1,1 +1,1 @@
-# comp367-aws
+# comp367-aws-lab2
